@@ -1,10 +1,26 @@
-### Hi there!
+<h1 align="center"> Oiii, me chamo Gabriela (Gabi) 💕 </h1>
+
+<div>
+<div align="">
+  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/941825356317462608/947212164580671578/download20220206163128.png?width=676&height=676">
+  <h4> Sobre mim ✨ </h4>
+  
+  💻 &nbsp; Estudante de Tecnologia da Informação
+  
+  👀 &nbsp; Interessada em Ciência da Computação
+  
+  📚 &nbsp; Ama ler e jogar nas horas vagas
+</div>
+</div>
+<br>
+<hr>
 
 <div align="center">
   <a href="https://github.com/erednasyl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erednasyl&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erednasyl&layout=compact&langs_count=7&theme=blueberry&hide_border=true"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Aria-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Aria-CPP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
