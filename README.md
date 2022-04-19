@@ -1,8 +1,8 @@
-<h1 align="center"> Oiii, me chamo Gabriela (Gabi) 💕 </h1>
+<h1 align="center"> Hey there! I'm Giselle, also known as Ariabelle 🦄 </h1>
 
 <div>
 <div align="">
-  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/941825356317462608/947212164580671578/download20220206163128.png?width=676&height=676">
+  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <h4> Sobre mim ✨ </h4>
   
   💻 &nbsp; Estudante de Tecnologia da Informação
@@ -40,5 +40,4 @@
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.tiktok.com/@mirageprism" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/gineres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
