@@ -2,7 +2,7 @@
 
 <div>
 <div align="">
-  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
   <h4> Sobre mim ✨ </h4>
   
   💻 &nbsp; Estudante de Tecnologia da Informação
@@ -30,7 +30,6 @@
   <img align="center" alt="Aria-UNITY" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Aria-PS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Aria-BLENDER" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="right" alt="Aria-pic" height="150" style="border-radius:50px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
 </div>
   
 ##
@@ -40,4 +39,5 @@
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.tiktok.com/@mirageprism" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/gineres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
