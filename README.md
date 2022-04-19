@@ -13,6 +13,7 @@
   <img align="center" alt="Aria-OPENGL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
   <img align="center" alt="Aria-UNITY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Aria-BLENDER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+  <img align="center" alt="Aria-BLENDER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="right" alt="Aria-pic" height="150" style="border-radius:50px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
 </div>
   
