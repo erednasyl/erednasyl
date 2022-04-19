@@ -9,7 +9,7 @@
   
   👀 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
   
-  📚 &nbsp; Character designer (WIP).
+  🦄 &nbsp; I like to refer myself as Ariabelle and *also* Gineres, together, they compound the *Mirage Prism* team!
 </div>
 </div>
 <br>
