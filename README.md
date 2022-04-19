@@ -16,6 +16,7 @@
   <img align="right" alt="Aria-pic" height="150" style="border-radius:50px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
 </div>
   
+##
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
