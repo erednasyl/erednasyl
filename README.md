@@ -9,7 +9,7 @@
   
   🐝 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
   
-  🦄 &nbsp; I like to refer myself as Ariabelle and *also* as Gineres, together, they compound the **Mirage Prism** team!
+  🦄 &nbsp; I like to refer to myself as Ariabelle and *also* as Gineres, together, they compound the **Mirage Prism** team!
 </div>
 </div>
 <br>
