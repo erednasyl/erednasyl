@@ -3,11 +3,11 @@
 <div>
 <div align="">
   <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
-  <h4> Sobre mim ✨ </h4>
+  <h4> About me ✨ </h4>
   
   🌻 &nbsp; Computer Science student.
   
-  👀 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
+  🐝 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
   
   🦄 &nbsp; I like to refer myself as Ariabelle and *also* Gineres, together, they compound the **Mirage Prism** team!
 </div>
