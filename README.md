@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm Giselle, also known as Ariabelle 🦄 </h1>
+<h1 align="center"> Hey there! I'm Giselle (WIP) 🦄 </h1>
 
 <div>
 <div align="">
@@ -9,7 +9,7 @@
   
   🐝 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
   
-  🦄 &nbsp; I like to refer to myself as Ariabelle and *also* as Gineres, together, we compound the **Mirage Prism** team!
+  🦄 &nbsp; ----
 </div>
 </div>
 <br>
