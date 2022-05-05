@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm Giselle (WIP) 🦄 </h1>
+<h1 align="center"> Hey there! I'm Giselle 🦄 </h1>
 
 <div>
 <div align="">
@@ -7,9 +7,9 @@
   
   🌻 &nbsp; Computer Science student.
   
-  🐝 &nbsp; Game Developer, Artist & Content Creator on my free time (check my socials and repositories for more info).
+  🐝 &nbsp; Game Developer, Artist & Content Creator on my free time.
   
-  🦄 &nbsp; ----
+  🦄 &nbsp; ---
 </div>
 </div>
 <br>
