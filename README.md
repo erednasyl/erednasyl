@@ -32,7 +32,9 @@
     <img align="center" alt="Aria-BLENDER" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   </div>
 </div>
+  
 ##
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCv8oEg8yiyhn2QPYsZqy5zA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ariabelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
