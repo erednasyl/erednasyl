@@ -1,8 +1,8 @@
-<h1 align="center"> Hey there! I'm Giselle 🦄 (WORK IN PROGRESS)</h1>
+<h1 align="center"> Hey there! I'm Giselle 🦄</h1>
 
 <div>
 <div align="">
-  <img align="left" alt="Gabi-pic" height="150" style="border-radius:100px;" src="https://cdn.ko-fi.com/cdn/useruploads/42c97622-c437-4e72-946f-cfcbe3013fa8.png">
+  <img align="left" alt="Neres" height="150" style="border-radius:100px;" src="https://cdna.artstation.com/p/assets/images/images/035/762/078/large/giselle-neres-beat1.jpg?1615834948">
   <h4> About me ✨ </h4>
   
   🌻 &nbsp; Computer Science student.
